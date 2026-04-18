@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+plotly
+prophet
+statsmodels
+fpdf==1.7.2
